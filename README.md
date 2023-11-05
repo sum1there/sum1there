@@ -1,16 +1,29 @@
-### Hi there 👋
+# hiya, fellow github people
 
-<!--
-**sum1there/sum1there** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm nonamebyprogram (or nnbp), an idiotic Canadian who loves to code, play, and breathe. 
+The reason I chose this username? Random username generator, of course.
 
-Here are some ideas to get you started:
+## basic things to know about me
+- **he/they**
+- 📈 math is my favourite subject
+- 🇬🇧 🇵🇭 i speak two languages (english + tagalog)
+- lazy asf
+- **buy me my favourite blizzard flavour, i will jump with joy**
+- super competitive
+- romantic status: in debt
+- favourite number: 17 (it's lucky, trust)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## my computer specs (nobody cares about these)
+
+- OS: Windows 11 (alternatively you can say hfjone)
+- Processor: 12th Gen Intel Core i7-12700H
+- RAM: 16GB
+- GPU: NVIDIA GeForce RTX 3090 Laptop
+
+## things i use
+- javascript
+- python
+- C# (or Db)
+- DynamoDB
+- Supabase
+- PostgreSQL
